@@ -1,2 +1,7 @@
-# Analise-cases-de-sucesso
-Realizando uma analise crítica de um case de sucesso usando o framework Scrum. 
+# Analise cases de sucesso
+Podemos verificar a partir do case de sucesso da Sony, como a metodologia Scrum pode ser um divisor de águas para o andamento de um projeto.
+A noção de entrega continua, o empirismo que envolve todo o processo, a transparência, inspeção e adaptabilidade do framework permitem ao team maior redução de desvios do produto, entregas mais valorosas e integração do time como um todo.
+Analisando o caso da Sony, por sem um problema complexo necessitava de uma divisão, a noção do product backlog permite ao Product owner ter uma visão macro do objeto final, porém cada sprint permite ao time de desenvolvimento a visão micro de como cada passo fará com que o time atinja o objetivo.
+Se fizermos uma analogia com a estratégia computacional dividir para conquistar, podemos perceber que dividindo o product backlog em partes menores, sprint backlog, e resolvendo essas partições menores, podemos resolver o problema total.
+Uma questão de suma importância é garantir que a equipe esteja em sincronia com o framework, os funcionários tendem a apresentar certo nível de resistência à princípio, conforme mencionado no caso da Sony. É crucial que o Scrum Master então situe melhor esses colaboradores e os ajude a passar por essa transição, garantindo assim que o framework seja utilizado de maneira plena.
+Uma vez que existe a familiaridade com o SCRUM e o time passa a exercer os valores e pilares dele, os resultados são ainda mais compensadores, um time que segue os valores de respeito, autonomia, adpatabilidade, transparência consegue resultados bem mais proveitosos.  
